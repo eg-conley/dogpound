@@ -1,0 +1,21 @@
+<!-- strings for text and buttons -->
+<resources>
+    <string name="app_name">Dog Pound</string>
+    <string name="welcome">Welcome to</string>
+    <string name="title">Dog Pound</string>
+    <string name="button_start">Start</string>
+    <string name="text_instructionsheader">Instructions</string>
+    <string name="text_instructions1">Tap the terriers</string>
+    <string name="text_instructions2">Avoid the imposters</string>
+    <string name="text_instructions3">+1 point</string>
+    <string name="text_instructions4">-1 point</string>
+
+    <string name="go">GO!</string>
+    <string name="text_time">Timer: 0</string>
+
+    <string name="button_restart">Restart</string>
+    <string name="text_score">Score: 0</string>
+    <string name="text_highscore">High Score: 0</string>
+    <string name="gameover">Game Over</string>
+    <string name="blank"> </string>
+</resources>

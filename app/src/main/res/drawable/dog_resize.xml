@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- dog sizing -->
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/dog"
+    android:level="7500"
+    android:scaleGravity="center"
+    android:scaleHeight="80%"
+    android:scaleWidth="80%"
+/>
