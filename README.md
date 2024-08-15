@@ -1,6 +1,6 @@
 # Dog Pound 🐾
 
-## Overview:
+## Overview 🔍:
 This Android game is a fun twist on the classic Whac-A-Mole arcade game for the Boston University community. The player has 15 seconds to tap (or click) as many terriers as they can to gain points while avoiding the impostor eagles that take points back. 
 
 ## My Role 🚧: 
