@@ -10,6 +10,10 @@ Specifically, I worked as the _Interface Lead_, focusing on creating a simple, i
 
 I also programmed a bit of the back-end code in **Java** which involved setting up the page navigation system with Activities and Intents, creating fuctions for makeshift animation of assets, and configuring the point scoring system.
 
+## Demo* 🎮:
+[![Demo Video](https://github.com/user-attachments/assets/ba397610-2ea4-470a-a435-d4d3d40d973e
+)](https://www.youtube.com/watch?v=11NN16qCsd0)
+
 ## Setup* ⚙️:
 1. Download the file and unzip it in any desired location.
 2. Open the now unzipped “dogpound” folder as a project in Android Studio.
@@ -17,5 +21,3 @@ I also programmed a bit of the back-end code in **Java** which involved setting 
 4. The application will open with the logo and instructions for the game should display.
 
 *_Android Studio recommended to preview the application_
-
-![App logo of a Boston terrier.](/app/src/main/res/drawable/dog.png)
